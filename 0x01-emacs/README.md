@@ -1,1 +1,1 @@
-Projet on using EMACS
+Project on using EMACS
